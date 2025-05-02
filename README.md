@@ -2,9 +2,9 @@
 
 - [Descripción de la aplicación](#descripcion-de-aplicacion)
 
-- [Funciones](#funciones)
+- [Procedimiento](#Procedimiento)
 
-- [Tecnología utilizadas](#ferramentas-utilizadas)
+- [Librería utilizada](#Libreria-utilizada)
 
 - [Acceso a la aplicación](#acesso-ao-projeto)
 
@@ -42,8 +42,6 @@
 ## Librería utilizada
 
 Pandas
-
-###
 
 ## Acceso a la aplicación
 
