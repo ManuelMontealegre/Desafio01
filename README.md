@@ -6,7 +6,7 @@
 
 - [Librería utilizada](#Libreria-utilizada)
 
-- [Acceso a la aplicación](#acesso-aplicacion)
+- [Acceso a la aplicación](#acceso-aplicacion)
 
 - [Desarrollador](#desarrollador)
 
