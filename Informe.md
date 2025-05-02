@@ -32,6 +32,7 @@ Se extrajeros los ingresos por tienda como se muestra a continuación
  Calificación promedio por tienda
 
 </p>
+
 ## Recomendación
 
 <p align="justify">
