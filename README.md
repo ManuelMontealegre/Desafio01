@@ -6,9 +6,9 @@
 
 - [Librería utilizada](#Libreria-utilizada)
 
-- [Acceso a la aplicación](#acesso-ao-projeto)
+- [Acceso a la aplicación](#acesso-aplicacion)
 
-- [Desarrollador](#desenvolvedores)
+- [Desarrollador](#desarrollador)
 
 ## Descripción de aplicación 
 
@@ -41,11 +41,11 @@
 
 ## Librería utilizada
 
-Pandas
+Pandas y pyplot de matplotlib 
 
 ## Acceso a la aplicación
 
-(https://github.com/ManuelMontealegre/Desafio1).
+(https://github.com/ManuelMontealegre/Desafio01).
 
 ## Desarrollador
 
