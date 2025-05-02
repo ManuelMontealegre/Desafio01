@@ -1,4 +1,4 @@
-### Informe de Análisis de Tiendas 
+## Informe de Análisis de Tiendas 
 
 Se extrajeros los ingresos por tienda como se muestra a continuación
 
